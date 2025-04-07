@@ -1,0 +1,10 @@
+pandas
+zipfile
+plotly
+matplotlib
+seaborn
+requests
+BytesIO
+make_subplots
+streamlit
+time
